@@ -1,2 +1,2 @@
-# Check-RightAngle
-Check Right Angle By Using Pythagoras theorem
+# Check-Right Triangle
+Check Right Triangle By Using Pythagoras theorem
